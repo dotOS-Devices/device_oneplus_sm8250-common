@@ -17,6 +17,9 @@
 
 <resources>
 
+    <!-- Whether device supports GameMode -->
+    <bool name="config_deviceSupportsGameMode">true</bool>
+
     <!-- Whether device supports DC-dimming -->
     <bool name="config_deviceSupportsDCdimming">true</bool>
 
