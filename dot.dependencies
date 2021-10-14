@@ -1,0 +1,15 @@
+[
+  {
+    "repository": "android_hardware_oneplus",
+    "target_path": "hardware/oneplus"
+  },
+  {
+    "repository": "kernel_oneplus_sm8250",
+    "target_path": "kernel/oneplus/sm8250"
+  },
+  {
+    "remote": "dotos-devices-gitlab",
+    "repository": "vendor_oneplus_kebab",
+    "target_path": "vendor/oneplus"
+  }
+]
