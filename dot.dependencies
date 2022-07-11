@@ -16,5 +16,11 @@
     "repository": "vendor_oneplus_kebab",
     "revision": "dot12.1",
     "target_path": "vendor/oneplus"
+  },
+  {
+    "remote": "github",
+    "repository": "luk1337/ih8sn",
+    "revision": "master",
+    "target_path": "vendor/ih8sn"
   }
 ]
